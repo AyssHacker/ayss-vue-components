@@ -1,0 +1,23 @@
+{
+  "name": "ayss-vue-components",
+  "version": "1.0.0",
+  "description": "vueUI组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyssHacker/ayss-vue-components.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "ayss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AyssHacker/ayss-vue-components/issues"
+  },
+  "homepage": "https://github.com/AyssHacker/ayss-vue-components#readme"
+}
